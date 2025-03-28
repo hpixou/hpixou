@@ -1,8 +1,8 @@
-# 🚀 pixou  
+# `🌟` pixou  
 
 Hey there! I'm **pixou**, a developer with a deep passion for **computer science in its entirety**. I specialize in **C programming** and **Zig**, diving into low-level development, optimizing performance, and understanding how things work under the hood.  
 
-## 🛠️ Languages & Tools  
+## `🛠️` Languages & Tools  
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -12,13 +12,13 @@ Hey there! I'm **pixou**, a developer with a deep passion for **computer science
   <img src="https://img.shields.io/badge/Makefile-3776AB?style=for-the-badge&logo=make&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats  
+## `📊` GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hpixou&show_icons=true&theme=radical&hide_border=true" alt="hpixou's GitHub stats"/>
 </p>
 
-## 🔗 Let's Connect  
+## `🔗` Let's Connect  
 
 <p align="center">
   <a href="https://github.com/hpixou">
