@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hpixou/hpixou/main/assets/banner.png" alt="hpixou banner" width="800"/>
-</p>
+# 🚀 pixou  
 
-# 🚀 hpixou  
-
-Hey there! I'm **hpixou**, a developer with a deep passion for **computer science in its entirety**. I specialize in **C programming** and **Zig**, diving into low-level development, optimizing performance, and understanding how things work under the hood.  
+Hey there! I'm **pixou**, a developer with a deep passion for **computer science in its entirety**. I specialize in **C programming** and **Zig**, diving into low-level development, optimizing performance, and understanding how things work under the hood.  
 
 ## 🛠️ Languages & Tools  
 
