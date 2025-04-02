@@ -11,7 +11,7 @@ Hey there! I'm **pixou**, a developer with a deep passion for **computer science
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Makefile-3776AB?style=for-the-badge&logo=make&logoColor=white"/>
 <img src="https://img.shields.io/badge/LLVM-5E5B5D?style=for-the-badge&logo=llvm&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASM-0F1C2B?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASM-0F1C2B?style=for-the-badge&logo=cpp&logoColor=white"/>
 </p>
 
 ## `🔗` Let's Connect  
